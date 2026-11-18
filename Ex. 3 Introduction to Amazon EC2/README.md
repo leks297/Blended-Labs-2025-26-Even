@@ -109,8 +109,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 <img width="1187" height="637" alt="image" src="https://github.com/user-attachments/assets/24f36212-0505-4c0e-ae30-830ee77696bf" />
 
-
-<img width="1920" height="1200" alt="565000924-1ba4796f-c26e-4088-ac80-31795160b9cc" src="https://github.com/user-attachments/assets/9357b9a2-d043-4c5f-8ab9-33122e34c868" />
+<img width="1455" height="867" alt="image" src="https://github.com/user-attachments/assets/2a5f4418-2609-47a9-8c6a-f209395e8c73" />
 
 ---
 
